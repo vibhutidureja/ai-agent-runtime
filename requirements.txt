@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+docker
+langgraph
+langchain
+langchain-openai
+redis
+sqlalchemy
+psycopg2-binary
+python-dotenv
